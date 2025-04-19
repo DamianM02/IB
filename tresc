@@ -1,0 +1,21 @@
+Please choose one set of non-trivial image data (something interesting from your point of view), i.e., the set should not be smaller than 1000 teaching examples (preferably from a few to a dozen thousand examples) and should not belong to the sets defined as school, simple, etc., because then the task will not make educational sense. The task can be classification, detection, or segmentation.
+
+Please use the knowledge gained in lectures, exercises, and from other sources and your previous knowledge to implement several models, trying to optimize hyperparameters, fine-tune the model and the learning process so as to gradually achieve the best possible results.
+
+Depending on the difficulty of the data set, it does not have to be 100% on the test set, which would rather indicate that the set was too easy.
+
+A reference to scientific literature and a comparison of your solution with those described in the literature for this data set are welcome.
+
+If you don't achieve the best results in the world, don't worry! If you do, we can start writing a scientific article 😉
+
+Please show the learning process and results in graphs, images using visualizations (for training, validation, and test data) and the final quality of generalization on test data using known measures and IoU and Dice.
+
+Please try to approach the problem from different angles, think about your solution, describe your concept, implement it, then describe the individual steps of the optimization performed, interpret the intermediate and final results, and include a summary. I wish you a lot of fun and learning!
+
+Please also write at the end of the notebook what you learned from working on this exercise, what was valuable, what you realized, what was successful, and what requires further learning and work. What else would you like to learn during this subject, because, for example, you were not able to achieve it?
+
+Please do not forget to write your Name and Surname, GGSN 2025, exercise group + any comments in the first cell of the notebook if, for example, someone is late with returning due to a trip to a conference, competition, illness, etc. On the other hand, it is important not to make a backlog.
+
+Please also remember my request from the first exercises regarding the way of naming files to not send me either models or data sets (only links to them contained in the notebook), only the notebooks with results, descriptions, and interpretations (please do not ZIP the files, because it causes me unnecessary work):
+
+KCIDMB_2025_ZadNr_Imienia_Nazko.ipynb
